@@ -13,7 +13,10 @@
       "title": "RODEMCO",
       "email": "karynrhodes@rodemco.com",
       "phone": "+1 (801) 505-3760",
-      "location": { "country": "USA", "address": "521 Seigel Street" }
+      "location": {
+        "country": "USA",
+        "address": "521 Seigel Street"
+      }
     },
     "tags": ["cillum", "exercitation", "excepteur"]
   },
